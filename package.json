@@ -1,0 +1,13 @@
+{
+   "repository" : {
+      "url" : "https://github.com/mcfitz2/node-cas-iu.git"
+   },
+   "engine" : "node >= 0.8.0",
+   "version" : "0.0.1",
+   "name" : "cas-iu",
+   "dependencies" : {
+      "request" : "2.27.x"
+   },
+   "author" : "Micah Fitzgerald <mifitzge@indiana.edu>",
+   "description" : "CAS library for node.js written for Indiana University's implementation of CAS"
+}
